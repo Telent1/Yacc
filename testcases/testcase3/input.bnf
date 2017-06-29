@@ -1,0 +1,2 @@
+<palindrome> ::= "a" <palindrome> "a" | "b" <palindrome> "b" | "c" <palindrome> "c" | "d" <palindrome> "d"
+<letter>     ::= "a" | "b" | "c" | "d"
